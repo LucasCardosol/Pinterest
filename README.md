@@ -1,4 +1,4 @@
-# Pintrest
+# Pinterest
 A simple Clone of pinterest , there is no many features ,
 app focused in design and work with images.
 
