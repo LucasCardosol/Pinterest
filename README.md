@@ -13,7 +13,7 @@ app focused in design and work with images.
 # Install and start react modules
 * 1 - cd frontend
 * 2 - npm install
-* 3 - npm start
+* 3 - npm run dev
 
 
 
